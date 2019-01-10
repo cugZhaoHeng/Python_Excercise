@@ -1,0 +1,7 @@
+word_code = {
+	'Java':'a strong program language', 
+	'PHP':'The best language',
+	'C++':'Objected language'
+	}
+for key, value in word_code.items():
+	print(key+' '+value)

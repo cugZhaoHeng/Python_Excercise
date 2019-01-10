@@ -1,0 +1,4 @@
+In Python you can code.
+In Python you can calculate numbers.
+In Python you can draw paint.
+In Python you can make game by yourself.

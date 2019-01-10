@@ -1,0 +1,9 @@
+filename='guest.txt'
+
+with open(filename, 'a') as file_object:
+	while(True):
+		name=input('enter name: ')
+		if(name=='exit'):
+			break
+		file_object.write(name+'\n')
+		print(name)
